@@ -34,17 +34,23 @@ A simple **Todo application** built with **Flask** and **SQLite**, allowing user
    git clone <repository_url>
    cd <repository_folder>
 Create and activate a virtual environment (optional but recommended):
+```bash
 python -m venv venv
 source venv/bin/activate   # Linux/Mac
 venv\Scripts\activate      # Windows
-
+```
 Install dependencies:
+```bash
 pip install Flask SQLAlchemy
+```
 Run the application:
+```bash
 python app.py
+```
 Open your browser and go to:
+```bash
 http://127.0.0.1:5000/
-
+```
 Flask-Todo-App/
 │
 ├─ app.py              # Main Flask application
