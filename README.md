@@ -52,6 +52,7 @@ Open your browser and go to:
 http://127.0.0.1:5000/
 ```
 Flask-Todo-App/
+```bash
 │
 ├─ app.py              # Main Flask application
 ├─ todo.db             # SQLite database (auto-created)
@@ -60,6 +61,7 @@ Flask-Todo-App/
 │   ├─ form.html       # Homepage template
 │   └─ update.html     # Update task template
 └─ README.md           # Project documentation
+```
 
 
 👤 Author
